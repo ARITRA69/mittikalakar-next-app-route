@@ -15,3 +15,7 @@ body {
 .Qwigley-font {
   font-family: "Qwigley", sans-serif;
 }
+
+body {
+  background-color: black;
+}
