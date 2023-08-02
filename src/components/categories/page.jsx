@@ -8,7 +8,7 @@ const Category = () => {
   return (
     <div>
       <div className="">
-        <div className="text-[40px] font-semibold flex justify-center font-dancing-script ">
+        <div className="text-[40px] font-semibold flex justify-center font-dancing-script text-white">
           Category
         </div>
         <p className="flex justify-center font-semibold text-gray-500 m-5">
