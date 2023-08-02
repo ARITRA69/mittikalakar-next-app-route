@@ -16,7 +16,7 @@ const Category = () => {
         </p>
       </div>
 
-      <div classNameName="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-rows-4 md:grid-rows-2 gap-5">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-rows-4 md:grid-rows-2 gap-5">
 
           <div className="relative overflow-hidden inline-block group rounded-xl ">
             <Image
