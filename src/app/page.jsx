@@ -25,7 +25,7 @@ const Main = () => {
       <div className="flex-col justify-center lg:mt-8 relative">
         {/* <Carousel /> */}
         <LandingPage />
-        <ImageGalary />
+        {/* <ImageGalary /> */}
         <div className="mx-5 lg:mx-52">
           <BestSelling />
           <About />
